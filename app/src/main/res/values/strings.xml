@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyPlayerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="id">id</string>
+    <string name="title">ALBUM</string>
+    <string name="subtitle">subtitle</string>
+    <string name="artist">Artist:</string>
+    <string name="published">published</string>
+    <string name="genre">genre</string>
+    <string name="track">track</string>
+    <string name="file">file</string>
+</resources>
